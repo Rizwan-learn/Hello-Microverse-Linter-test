@@ -1,0 +1,27 @@
+{
+  "name": "hello-microverse-linter-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rizwan-learn/Hello-Microverse-Linter-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rizwan-learn/Hello-Microverse-Linter-test/issues"
+  },
+  "homepage": "https://github.com/Rizwan-learn/Hello-Microverse-Linter-test#readme",
+  "devDependencies": {
+    "hint": "^6.1.9",
+    "stylelint": "^14.2.0",
+    "stylelint-config-standard": "^24.0.0",
+    "stylelint-csstree-validator": "^2.0.0",
+    "stylelint-scss": "^4.1.0"
+  }
+}
