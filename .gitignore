@@ -1,3 +1,4 @@
 # .gi/tignore
 /node_modules
-/test.md/
+test.md
+
